@@ -1,1 +1,3 @@
 *** http://pretrain.nlpedia.ai/
+
+*** 语种判断 https://github.com/google/cld3
